@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Heidy Florez and I work as front end developer for 3 years ago
+### Hi there 👋 My name is Heidy Florez and I work as developer
 
 <!--
 **haflorez29/haflorez29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
