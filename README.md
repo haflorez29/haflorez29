@@ -1,18 +1,28 @@
-### Hi there 👋 My name is Heidy Florez and I work as developer
+Hi, I'm Heidy 👋
 
-📫 How to reach me:
-- [linkedin](https://www.linkedin.com/in/heidy-florez-lopez/)
+Cloud / DevOps Engineer with a strong Frontend background.
 
-<!--
-**haflorez29/haflorez29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I previously worked for 5+ years as a Frontend Developer, building web applications with React, Next.js, TypeScript, and Node.js. I am currently focused on AWS cloud infrastructure, Terraform, CI/CD, automation, and deployment workflows.
 
-Here are some ideas to get you started:
+Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS Cloud Infrastructure
+- Terraform
+- CI/CD
+- Docker
+- Linux
+- React / Next.js / TypeScript
+
+Background
+
+- Frontend Development
+- Responsive Web Applications
+- Unit Testing
+- Agile Delivery
+- Cloud and DevOps Practices
+
+Featured Projects
+
+- React / Next.js Business Website
+- Fullstack Application with Docker
+- AWS / Terraform Infrastructure Lab
